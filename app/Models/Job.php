@@ -8,7 +8,7 @@ class Job {
         return [
             [
                 'id' => '1',
-                'title' => 'Dancer',
+                'title' => '    ',
                 'salary' => 'P50,000'
             ],
             [
